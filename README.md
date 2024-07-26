@@ -16,7 +16,8 @@ The IPL Score Predictor is a machine learning model built to predict the scores 
 3. [Usage](#usage)
 4. [Project Structure](#project-structure)
 5. [Model Details](#model-details)
-6. [License](#license)
+6. [Contributing](#contributing)
+7. [License](#license)
 
 ## Features
 
